@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 
 namespace StaticMembersYF
 {
+
+    /// <summary>
+    /// Static class Calculate implements a static contstructor
+    /// Public static float was created with a result of = 0.0f
+    /// The static Calculate initialiesz the result value to '0.0f'
+    /// Public methods were created to add, sub, mult, & div two int numbers together and return the result
+    /// An overload method was made for two floating point numbers and return the results
+    /// </summary>
     static class Calculate
     {
 
